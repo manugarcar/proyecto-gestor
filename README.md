@@ -1,80 +1,85 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#proyecto-gestor)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]( task-management)
 
-# ➤ proyecto-gestor
-Pequeño proyecto de una aplicación de gestión de tareas.
+# ➤ task-management
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#proyecto-gestor)
+Small project of a task management application.
 
-# ➤ proyecto-gestor
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]( task-management)
+
+# ➤ task-management
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#descripcin)
 
-## ➤ Descripción
-Proyecto sencillo de una aplicación de gestión de tareas desarrollada en JSP, creada como parte de una asignatura. Permite a los usuarios crear, editar y eliminar tareas para organizar su trabajo diario.
+## ➤ Description
+
+Simple project of a task management application developed in JSP, created for programming class.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#caractersticas)
 
-## ➤ Características
-- Crear nuevas tareas con título y descripción.
-- Listar todas las tareas existentes.
-- Editar tareas para actualizar su información.
-- Eliminar tareas completadas o no deseadas.
-- Interfaz sencilla y fácil de usar basada en JSP.
+## ➤ Characteristics
+
+- Create new tasks with title and description.
+- List all existing tasks.
+- Edit tasks to update their information.
+- Delete completed or unwanted tasks.
+- Simple and easy-to-use interface based on JSP.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#tecnologas-utilizadas)
 
-## ➤ Tecnologías utilizadas
+## ➤ Technologies used
+
 - Java Server Pages (JSP)
 - Servlets
 - HTML/CSS
 - Java (backend)
-- Servidor web compatible con JSP (por ejemplo, Apache Tomcat)
+- JSP-compatible web server (e.g., Apache Tomcat)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#instalacin-y-ejecucin)
 
-## ➤ Instalación y ejecución
-1. Clonar el repositorio:
+## ➤ Installation
+
+1. Clone the repository:
    ```bash
-   git clone <URL-del-repositorio>
-2. Importar el proyecto en tu IDE favorito (por ejemplo, IntelliJ IDEA o Eclipse).
+   git clone <repository-URL>
 
-3. Configurar un servidor compatible con JSP (como Apache Tomcat).
+2. Import the project into your favorite IDE (for example, IntelliJ IDEA or Eclipse).
 
-4. Desplegar la aplicación en el servidor.
+3. Configure a JSP-compatible server (such as Apache Tomcat).
 
-5. Acceder a la aplicación desde el navegador en la URL configurada (por ejemplo, http://localhost:8080/proyecto-gestor).
+4. Deploy the application on the server.
+
+5. Access the application from the browser at the configured URL (for example, http://localhost:8080/project-manager).
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#uso)
 
-## ➤ Uso
+## ➤ Usage
 
-- Navega por la interfaz para gestionar tus tareas (Crea, modifica y borra).
+- Navigate through the interface to manage your tasks (Create, modify, and delete).
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contribuciones)
 
-## ➤ Contribuciones
+## ➤ Contributions
 
-Este proyecto es puramente academico, si deseas contribuir puedes abrir un issue o enviar un pull request.
+This project is purely academic; if you want to contribute, you can open an issue or send a pull request.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#licencia)
 
-## ➤ Licencia
+## ➤ License
 
-Este proyecto esta bajo la licencia GNU GPL v3.0.
-Consulta el archivo LICENSE para mas información.
+This project is under the GNU GPL v3.0 license. See the LICENSE file for more information.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#autor)
 
-## ➤ Autor
+## ➤ Author
 
-- Nombre: Manuel García Carrillo
-- Contacto: https://github.com/manugarcar
+- Name: Manuel García Carrillo
+- Contact: https://github.com/manugarcar
